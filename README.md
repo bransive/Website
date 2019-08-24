@@ -2,13 +2,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/GeorgeYDesign/Brave-Red">
-    <img src="https://i.imgur.com/UH4tAwC.png" alt="Logo" width="150" height="150">
+    <img src="https://i.imgur.com/d9NtZPW.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Bransive Website</h3>
 
   <p align="center">
-    The splendid website designed by our wonderful team!
+    The splendid website designed by our wonderful team which is made available to everyone!
     <br />
   </p>
   <p align="center">
