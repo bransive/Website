@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://bransive.com.au/</loc>
+  <lastmod>2019-05-31T23:33:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://bransive.com.au/index.html</loc>
+  <lastmod>2019-05-31T23:33:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bransive.com.au/brand_positioning.html</loc>
+  <lastmod>2019-05-31T23:33:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bransive.com.au/effective_marketing.html</loc>
+  <lastmod>2019-05-31T23:33:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bransive.com.au/e-commerce.html</loc>
+  <lastmod>2019-05-31T23:33:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bransive.com.au/about.html</loc>
+  <lastmod>2019-05-31T23:33:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bransive.com.au/contact.html</loc>
+  <lastmod>2019-05-31T23:33:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://bransive.com.au/portfolio.html</loc>
+  <lastmod>2019-05-31T23:33:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
