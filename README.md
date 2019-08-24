@@ -23,12 +23,12 @@
        </a>
   </p>
   <p align="center">
-    <a href="https://github.com/GeorgeYDesign/Brave-Red/blob/master/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/bransive/Website/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/GeorgeYDesign/Brave-Red/issues">Report Bug</a>
+    <a href="https://github.com/bransive/Website/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GeorgeYDesign/Brave-Red/issues">Request Feature</a>
+    <a href="https://github.com/bransive/Website/issues">Request Feature</a>
   </p>
 </p>
 
@@ -75,15 +75,15 @@ In order to play and/or tinker with Brave Red you will require the following;
 
 1. Clone the repo
 ```sh
-git clone https:://github.com/GeorgeYDesign/Brave-Red.git
+git clone https://github.com/bransive/Website.git
 ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Open the project file using either Android Studio or XCode depending on what variant you are attempting to use. You may also link to more resources.
+Open the project file using the Web Processing Tool of your choice. We always recommend Adobe Dreamweaver.
 
-_For more examples, please refer to the [Documentation](https://github.com/GeorgeYDesign/Brave-Red/blob/master/README.md)_
+_For more examples, please refer to the [Documentation](https://github.com/bransive/Website/blob/master/README.md)_
 
 
 
@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 George Youssef - [@GeorgeYDesign](https://twitter.com/GeorgeYDesign) - george@bransive.com.au
 
-Project Link: [https://github.com/bransive/website](https://github.com/bransive/website)
+Project Link: [https://github.com/bransive/Website](https://github.com/bransive/Website)
 
 
 
