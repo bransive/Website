@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 George Youssef - [@GeorgeYDesign](https://twitter.com/GeorgeYDesign) - george@bransive.com.au
 
-Project Link: [https://github.com/GeorgeYDesign/Brave-Red](https://github.com/GeorgeYDesign/Brave-Red)
+Project Link: [https://github.com/bransive/website](https://github.com/bransive/website)
 
 
 
