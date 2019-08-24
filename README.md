@@ -26,9 +26,9 @@
     <a href="https://github.com/bransive/Website/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/bransive/Website/issues">Report Bug</a>
+    <a href="https://github.com/bransive/Website/issues">Report A Bug</a>
     ·
-    <a href="https://github.com/bransive/Website/issues">Request Feature</a>
+    <a href="https://github.com/bransive/Website/issues">Request A Feature</a>
   </p>
 </p>
 
@@ -51,25 +51,25 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Brave Red is a casual platformer that is avaliable on iOS and Android Operating Systems. It is currently in it's early stages and as time progresses so too will the game.If you would like to give it a go scroll down and read how.
+This is a project which contains all the bits of code for our wonderful website. We have made it public for you to use parts of it in your own work.
 
-Here's what we've been able to do so far;
+Here's some of the cool features;
 * Intuitive Navigation UI
-* Great Player control using on-screen controls
-* Fun map that gets harder the further you get :smile:
+* Minimal Colour Usage to focus on content
+* Easy to learn from :smile:
 
-Of course, we know that it isn't perfect and we are working tirelessly to make it great. You may also suggest changes by forking this repo and creating a pull request or opening an issue with the tag.
+You may also suggest changes by forking this repo and creating a pull request or opening an issue with the tag.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-When installing you will download both iOS and Android varients.
+Ensure your machine has a Website Processing Application.
 
 ### Prerequisites
 
-In order to play and/or tinker with Brave Red you will require the following;
-* Android Studio V3.4.1+
-* XCode V10.2.1+
+In order to view and/or tinker with the Website you will require the following;
+* Browser of your choice
+* Web Processing Tool of your choice
 
 ### Installation
 
